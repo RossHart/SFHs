@@ -1,0 +1,12 @@
+smpy-obs/error.log
+smpy-fits/error.log
+*.ipynb
+*.npz
+*.npy
+*.pdf
+*.txt
+*.png
+smpy-obs/Dust Extinction Curves.py
+smpy-obs/DustExtinctionCurves.py
+smpy-obs/test.py
+smpy-obs/filters/*
